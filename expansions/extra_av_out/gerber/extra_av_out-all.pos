@@ -1,5 +1,5 @@
-### Footprint positions - created on 2026-04-04T22:31:16+0300 ###
-### Printed by KiCad version 9.0.7+dfsg-1
+### Footprint positions - created on 2026-05-28T23:43:16 ###
+### Printed by KiCad version 10.0.1+dfsg-1
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                   Package                                           PosX       PosY       Rot  Side
@@ -35,6 +35,7 @@ D2        PESD5V0V4UW           SOT-665                                        5
 D3        PESD12VL2BT           SOT-23                                         95.7725   -73.5400  180.0000  top
 D4        PESD5V0U4BW           SOT-665                                        73.7400   -70.3800    0.0000  top
 D5        1N4148                D_SOD-123                                      96.1900   -40.5950  180.0000  top
+D6        PESD5V0U4BW           SOT-665                                       106.6700   -51.8150   90.0000  top
 FB1       MPZ1608S102ATA00      SM0603_Resistor_libcms                         53.3480   -81.8900    0.0000  top
 FB2       MPZ1608S102ATA00      SM0603_Resistor_libcms                         53.3480   -80.1500    0.0000  top
 J1        Conn_02x25_Odd_Even   PinSocket_2x25_P2.54mm_Horizontal              48.9258   -27.2487    0.0000  top
@@ -67,7 +68,6 @@ R19       375                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   10
 R20       300                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   102.3800   -48.9600  180.0000  top
 R21       375                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   100.6400   -46.1125  -90.0000  top
 R22       300                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   100.6500   -43.7800  -90.0000  top
-R23       10k                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    79.6800   -45.7500    0.0000  top
 R24       47k                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder    92.1500   -41.2075  -90.0000  top
 R25       10k                   R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   101.3000   -56.7725  -90.0000  top
 ST1       Screw_Terminal_01x01  7773                                           53.1900   -18.0200  -90.0000  top
